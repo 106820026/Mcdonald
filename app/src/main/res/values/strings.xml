@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mcdonald</string>
+    <string name="coupon">優惠券</string>
+    <string name="confirm">確認兌換優惠</string>
+    <string name="dialogMessage">請確認您已經在麥當勞餐廳櫃台，點選「立即兌換」後，須於兩分鐘內出示結帳人員。</string>
+    <string name="notNow">暫時不要</string>
+    <string name="yesIDo">立即兌換</string>
+</resources>
